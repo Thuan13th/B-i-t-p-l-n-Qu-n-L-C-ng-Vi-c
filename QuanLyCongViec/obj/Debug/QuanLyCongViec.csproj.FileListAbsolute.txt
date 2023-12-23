@@ -1,0 +1,16 @@
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe.config
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.pdb
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.AssemblyReference.cache
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.SuggestedBindingRedirects.cache
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form_BaoCao.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.FormChuongTrinh.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.FormDangNhap.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form_btnQuanLyCongViec.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form_btnQuanLyNhanVien.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Form_btn_TienDoCV.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Properties.Resources.resources
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.GenerateResource.cache
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CoreCompileInputs.cache
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe
+D:\last_BTL\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.pdb
